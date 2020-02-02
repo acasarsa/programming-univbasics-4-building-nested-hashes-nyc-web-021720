@@ -1,5 +1,6 @@
 def base_hash
-	{railroads: "value"}
+	{:railroads => {}
+	}
 end
 
 def monopoly_with_second_tier
